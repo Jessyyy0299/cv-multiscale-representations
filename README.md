@@ -1,5 +1,13 @@
 # Multiscale Image Representations (Computer Vision)
 
+### ⭐ Project Highlights
+- Implemented Gaussian scale space and multiscale smoothing from first principles  
+- Constructed Gaussian and Laplacian pyramids with image downsampling  
+- Reconstructed original images from pyramid levels and analyzed reconstruction accuracy  
+- Applied Laplacian of Gaussian (LoG) for blob detection across scales  
+- Visualized multiscale feature responses to understand scale invariance  
+
+
 This repository contains a course assignment on **multiscale image representations** for the Yale Computer Vision class (CPSC 480/580).
 
 > Author: **Jessy Xue**  
